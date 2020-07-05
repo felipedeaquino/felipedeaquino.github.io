@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Just a blog
+Personal blog
 
 ### More Information
 
